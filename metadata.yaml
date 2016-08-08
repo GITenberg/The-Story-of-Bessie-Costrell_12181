@@ -1,0 +1,29 @@
+_repo: The-Story-of-Bessie-Costrell_12181
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ward, Humphry, Mrs.
+    aliases:
+    - Ward, Mrs. Humphry
+    - Ward, Mary Augusta Arnold
+    - Arnold, Mary Augusta
+    birthdate: 1851
+    deathdate: 1920
+    gutenberg_agent_id: '2629'
+    url: http://www.gutenberg.org/2009/agents/2629
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Augusta_Ward
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12181'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Story of Bessie Costrell
+url: http://www.gutenberg.org/ebooks/12181
